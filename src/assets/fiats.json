@@ -1,0 +1,22 @@
+{
+    "objUsd": {
+        "symbol": "$",
+        "fiat": "USD",
+        "img": "/eua.jpg"
+    },
+    "objBrl": {
+        "symbol": "R$",
+        "fiat": "BRL",
+        "img": "/brasil.jpg"
+    },
+    "objCad": {
+        "symbol": "CAD",
+        "fiat": "CAD",
+        "img": "/canada.jpg"
+    },
+    "objEur": {
+        "symbol": "R$",
+        "fiat": "EUR",
+        "img": "/euro.png"
+    }
+}
